@@ -1,8 +1,15 @@
-# React + Vite
+# Apresentação
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório foi criado para demonstrar o gerenciamento da publicação do site da editora MaujorTec que exemplifica a criação e publicação de uma aplicação **React + Vite** e consta do Capítulo 9 - 2a. EDIÇÂO do Livro React do Maujor.
 
-Currently, two official plugins are available:
+## Endereço da hospedagem da aplicação
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[https://maujortec2ed.netlify.app/](https://maujortec2ed.netlify.app)
+
+### Deploy status badge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d1838a4-84e9-4ccc-976e-e30178997f2e/deploy-status)](https://app.netlify.com/sites/maujortec/deploys)
+
+## Site dos livros do Maujor
+
+[https://livrosdomaujor.com.br](https://livrosdomaujor.com.br)
